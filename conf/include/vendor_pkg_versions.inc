@@ -64,14 +64,6 @@ PACKAGE_ARCH_pn-libgles2-mesa = "${VENDOR_LAYER_EXTENSION}"
 PACKAGE_ARCH_pn-libgl-mesa = "${VENDOR_LAYER_EXTENSION}"
 PACKAGE_ARCH_pn-libgbm = "${VENDOR_LAYER_EXTENSION}"
 
-PV_pn-librsvg = "2.40.21"
-PR_pn-librsvg = "r0"
-PACKAGE_ARCH_pn-librsvg = "${VENDOR_LAYER_EXTENSION}"
-
-PV_pn-mpg123 = "1.25.13"
-PR_pn-mpg123 = "r0"
-PACKAGE_ARCH_pn-mpg123 = "${VENDOR_LAYER_EXTENSION}"
-
 PV_pn-pango = "1.44.7"
 PR_pn-pango = "r0"
 PACKAGE_ARCH_pn-pango = "${VENDOR_LAYER_EXTENSION}"

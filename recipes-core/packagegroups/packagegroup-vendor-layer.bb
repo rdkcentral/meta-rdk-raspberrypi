@@ -39,8 +39,6 @@ RDEPENDS_${PN}:append:rdkv-oss = " \
         libdrm \
         libepoxy \
         libmms \
-        librsvg \
-        mpg123 \
         pango \
         pulseaudio \
         wayland-default-egl \
